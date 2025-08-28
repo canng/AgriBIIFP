@@ -15,7 +15,7 @@ Biodiversity loss footprint (BII loss) tabular data allocates biodiversity loss 
 
 <br>
 
-<img src="./images/bii_flowchart.jpg" alt="Flowchart" width="800"/>
+<p align="center"><img src="./images/bii_flowchart.jpg" alt="Flowchart" width="90%"/> </p>
 
 <br>
 
