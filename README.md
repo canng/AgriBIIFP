@@ -21,15 +21,15 @@ Biodiversity loss footprint (BII loss) tabular data allocates biodiversity loss 
 
 ### **Data version notes**
 
-**Version 3** – Released in Augsust 2025
-* Adjusted the method for meat and dairy livestock disaggregation by removing [Our World in Data](https://ourworldindata.org/meat-production), now relying solely on [FAOSTAT](https://www.fao.org/faostat/en/#data/QCL) data.
+* **Version 3** – Released in Augsust 2025
+    * Adjusted the method for meat and dairy livestock disaggregation by removing [Our World in Data](https://ourworldindata.org/meat-production), now relying solely on [FAOSTAT](https://www.fao.org/faostat/en/#data/QCL) data.
  
-**Version 2** – Released in July 2025
-* Updated to include [GLW](https://www.fao.org/livestock-systems/global-distributions/en/) data in 2020 and [Global Pasture Watch data](https://www.nature.com/articles/s41597-024-04139-6).
-* Corrected allocation within the agroforestry sector.
+* **Version 2** – Released in July 2025
+    * Updated to include [GLW](https://www.fao.org/livestock-systems/global-distributions/en/) data in 2020 and [Global Pasture Watch data](https://www.nature.com/articles/s41597-024-04139-6).
+    * Corrected allocation within the agroforestry sector.
 
-**Version 1** – Released in January 2025
-* The original data release.
+* **Version 1** – Released in January 2025
+    * The original data release.
 
 <br>
 
