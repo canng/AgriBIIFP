@@ -16,6 +16,16 @@ Biodiversity loss footprint (BII loss) tabular data allocates biodiversity loss 
 <br>
 
 <p align="center"><img src="./images/bii_flowchart.jpg" alt="Flowchart" width="90%"/> </p>
+<p align="center"><b>General flowchart to generate Harmonized Land Use, Biodiversity Intactness Index (BII), and Agricultural Footprints</b></p>
+
+<p align="center"><img src="./images/Harmonized_Landuse.jpg" alt="Flowchart" width="90%"/> </p>
+<p align="center"><b>Harmonized land use map in 2020 and fragmented zoom-in examples in (A) Northeast America, (B) Amazon, (C) Mekong Delta, (D) Eastern Australia, (E) Northeast China, (F) Nile Delta in Egypt, (G) Southern Africa, and (H) western Europe, depict dominant land use categories globally.</b></p>
+
+<p align="center"><img src="./images/BII.jpg" alt="Flowchart" width="90%"/> </p>
+<p align="center"><b>Biodiversity intactness index (BII) in 2020 and examples in (A) Northeast America, (B) Amazon, (C) Mekong Delta, (D) Eastern Australia, (E) Northeast China, (F) Nile Delta in Egypt, (G) Southern Africa, and (H) western Europe. Green represents intact ecosystems and red indicates ecosystems with high human intervention</b></p>
+
+<p align="center"><img src="./images/BIIFP_trend.jpg" alt="Flowchart" width="90%"/> </p>
+<p align="center"><b>Overall trend of total BII footprint on crops and livestock from 2000 to 2020, and comparisons between average footprint. The footprint from the livestock sector has gradually declined, whereas the footprint associated with crop production has increased persistently over time</b></p>
 
 <br>
 
