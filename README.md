@@ -1,9 +1,9 @@
 
-## **Consistent global datasets on Land Use, Biodiversity Intactness Index, and Biodiversity Intactness Footprint of Agricultural Production from 2000 to 2020**
+### **Consistent global datasets on Land Use, Biodiversity Intactness Index, and Biodiversity Intactness Footprint of Agricultural Production from 2000 to 2020**
 
 <br>
 
-This archive provides consistent global datasets on **Harmonized Land-use, Biodiversity Intactness Index (BII), and Biodiversity Intactness Footprint (BIIFP)** of agricultural production from 2000 to 2020.
+This archive provides consistent global datasets on **Harmonized Land-use, Biodiversity Intactness Index (BII), and Biodiversity Intactness Footprint (BIIFP)** of Agricultural production from 2000 to 2020.
 
 Global High-resolution Harmonized Land Use (HHLU) maps reflect land use and vegetation states in seven (07) categories: (1) Primary-minimal use vegetation, (2) Primary vegetation, (3) Secondary vegetation, (4) Cropland, (5) Urban lands, (6) Pasture/Grazing lands, (7) Agroforestry.
 
@@ -14,15 +14,20 @@ Biodiversity Intactness Index (BII) maps simulate terrestrial biodiversity integ
 Biodiversity loss footprint (BII loss) tabular data allocates biodiversity loss footprints induced by agricultural production (crops and livestock), which estimates BII loss over 14 biomes, 193 countries and territories, 154 crops, and 09 livestock categories from 2000 to 2020.
 
 <br>
+<hr>
+<br>
 
 <p align="center"><img src="./images/bii_flowchart.jpg" alt="Flowchart" width="80%"/> </p>
 <p align="center">General flowchart to generate Harmonized Land Use, Biodiversity Intactness Index (BII), and Agricultural Footprints</p>
+<br>
 
 <p align="center"><img src="./images/Harmonized_Landuse.jpg" alt="Flowchart" width="80%"/> </p>
 <p align="center">Harmonized land use map in 2020 and fragmented zoom-in examples in (A) Northeast America, (B) Amazon, (C) Mekong Delta, (D) Eastern Australia, (E) Northeast China, (F) Nile Delta in Egypt, (G) Southern Africa, and (H) western Europe, depict dominant land use categories globally</p>
+<br>
 
 <p align="center"><img src="./images/BII.jpg" alt="Flowchart" width="80%"/> </p>
 <p align="center">Biodiversity intactness index (BII) in 2020 and examples in (A) Northeast America, (B) Amazon, (C) Mekong Delta, (D) Eastern Australia, (E) Northeast China, (F) Nile Delta in Egypt, (G) Southern Africa, and (H) western Europe. Green represents intact ecosystems and red indicates ecosystems with high human intervention</p>
+<br>
 
 <p align="center"><img src="./images/BIIFP_trend.jpg" alt="Flowchart" width="70%"/> </p>
 <p align="center">Overall trend of total BII footprint on crops and livestock from 2000 to 2020, and comparisons between average footprint. The footprint from the livestock sector has gradually declined, whereas the footprint associated with crop production has increased persistently over time</p>
@@ -43,6 +48,7 @@ Biodiversity loss footprint (BII loss) tabular data allocates biodiversity loss 
     * The original data release.
 
 <br>
+<hr>
 
 ### Cite our works
 
