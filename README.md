@@ -15,24 +15,23 @@ Biodiversity loss footprint (BII loss) tabular data allocates biodiversity loss 
 
 <br>
 <hr>
-<br>
 
 ### **Summary**
 
 <p align="center"><img src="./images/bii_flowchart.jpg" alt="Flowchart" width="80%"/> </p>
-<p align="center">General flowchart to generate Harmonized Land Use, Biodiversity Intactness Index (BII), and Agricultural Footprints</p>
+<p align="center"><b>Figure.</b> General flowchart to generate Harmonized Land Use, Biodiversity Intactness Index (BII), and Agricultural Footprints</p>
 <br>
 
 <p align="center"><img src="./images/Harmonized_Landuse.jpg" alt="Flowchart" width="80%"/> </p>
-<p align="center">Harmonized land use map in 2020 and fragmented zoom-in examples in (A) Northeast America, (B) Amazon, (C) Mekong Delta, (D) Eastern Australia, (E) Northeast China, (F) Nile Delta in Egypt, (G) Southern Africa, and (H) western Europe, depict dominant land use categories globally</p>
+<p align="center">Figure.</b> Harmonized land use map in 2020 and fragmented zoom-in examples in (A) Northeast America, (B) Amazon, (C) Mekong Delta, (D) Eastern Australia, (E) Northeast China, (F) Nile Delta in Egypt, (G) Southern Africa, and (H) western Europe, depict dominant land use categories globally</p>
 <br>
 
 <p align="center"><img src="./images/BII.jpg" alt="Flowchart" width="80%"/> </p>
-<p align="center">Biodiversity intactness index (BII) in 2020 and examples in (A) Northeast America, (B) Amazon, (C) Mekong Delta, (D) Eastern Australia, (E) Northeast China, (F) Nile Delta in Egypt, (G) Southern Africa, and (H) western Europe. Green represents intact ecosystems and red indicates ecosystems with high human intervention</p>
+<p align="center">Figure.</b> Biodiversity intactness index (BII) in 2020 and examples in (A) Northeast America, (B) Amazon, (C) Mekong Delta, (D) Eastern Australia, (E) Northeast China, (F) Nile Delta in Egypt, (G) Southern Africa, and (H) western Europe. Green represents intact ecosystems and red indicates ecosystems with high human intervention</p>
 <br>
 
 <p align="center"><img src="./images/BIIFP_trend.jpg" alt="Flowchart" width="70%"/> </p>
-<p align="center">Overall trend of total BII footprint on crops and livestock from 2000 to 2020, and comparisons between average footprint. The footprint from the livestock sector has gradually declined, whereas the footprint associated with crop production has increased persistently over time</p>
+<p align="center">Figure.</b> Overall trend of total BII footprint on crops and livestock from 2000 to 2020, and comparisons between average footprint. The footprint from the livestock sector has gradually declined, whereas the footprint associated with crop production has increased persistently over time</p>
 
 <br>
 <hr>
