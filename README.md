@@ -1,5 +1,5 @@
 
-### **Consistent global datasets on Land Use, Biodiversity Intactness Index, and Biodiversity Intactness Footprint of Agricultural Production from 2000 to 2020**
+## **Consistent global datasets on Land Use, Biodiversity Intactness Index, and Biodiversity Intactness Footprint of Agricultural Production from 2000 to 2020**
 
 <br>
 
@@ -16,6 +16,8 @@ Biodiversity loss footprint (BII loss) tabular data allocates biodiversity loss 
 <br>
 <hr>
 <br>
+
+### **Summary**
 
 <p align="center"><img src="./images/bii_flowchart.jpg" alt="Flowchart" width="80%"/> </p>
 <p align="center">General flowchart to generate Harmonized Land Use, Biodiversity Intactness Index (BII), and Agricultural Footprints</p>
