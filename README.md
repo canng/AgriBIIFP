@@ -51,6 +51,6 @@ Biodiversity loss footprint (BII loss) tabular data allocates biodiversity loss 
 
 ### Cite our works
 
-* Nguyen, C. T., Vačkářová, D., and Weinzettel, J. (2025). Consistent global dataset on biodiversity intactness footprint of agricultural production from 2000 to 2020. Scientific Data. <a href="https://doi.org/10.1038/s41597-025-05901-0">10.1038/s41597-025-05901-0</a>
-* Nguyen, C. T., Vačkářová, D., and Weinzettel, J. (2025). Consistent global datasets on Land Use, Biodiversity Intactness Index, and Biodiversity Intactness Footprint of Agricultural Production from 2000 to 2020. figshare. Dataset. <a href="https://doi.org/10.6084/m9.figshare.28303442.v2">10.6084/m9.figshare.28303442.v2</a>
+* Nguyen, C. T., Vačkářová, D., and Weinzettel, J. (2025). **Consistent global dataset on biodiversity intactness footprint of agricultural production from 2000 to 2020**. Scientific Data. <a href="https://doi.org/10.1038/s41597-025-05901-0">10.1038/s41597-025-05901-0</a>
+* Nguyen, C. T., Vačkářová, D., and Weinzettel, J. (2025). **Consistent global datasets on Land Use, Biodiversity Intactness Index, and Biodiversity Intactness Footprint of Agricultural Production from 2000 to 2020**. figshare. Dataset. <a href="https://doi.org/10.6084/m9.figshare.28303442.v2">10.6084/m9.figshare.28303442.v2</a>
 
